@@ -1,3 +1,8 @@
+##Output 
+![reactweatherapp_consoleop](https://user-images.githubusercontent.com/45993797/144969662-e2568662-bba1-4f0a-b133-eaa73622767c.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
