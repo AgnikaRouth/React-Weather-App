@@ -1,5 +1,13 @@
-##Output 
+## Output Console
 ![reactweatherapp_consoleop](https://user-images.githubusercontent.com/45993797/144969662-e2568662-bba1-4f0a-b133-eaa73622767c.jpg)
+
+## Output whole app
+
+
+
+
+
+https://user-images.githubusercontent.com/45993797/144971112-7a20c8d6-9820-481d-babd-0badfedc78e6.mp4
 
 
 
