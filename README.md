@@ -10,6 +10,14 @@
 https://user-images.githubusercontent.com/45993797/144971112-7a20c8d6-9820-481d-babd-0badfedc78e6.mp4
 
 
+## Notes
+1. API Key : 31e5cbca3c104c4f385923d1da661d57
+2. Functionalities : display weather details on current location and search location
+3. Attached documents : screen record of the output, console output for forecast weather 
+on current location
+4. To run - npm start (after downloading from github)
+5. Node modules not included with this project
+
 
 # Getting Started with Create React App
 
